@@ -35,8 +35,8 @@ Customize your password with selected criteria and copy it instantly with one cl
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/mansigupta2501/Tic-Tac-Toe-React.git
-cd Tic-Tac-Toe-React
+git clone https://github.com/mansigupta2501/Password-generator-app.git
+cd Password-generator-app
 ```
 
 ### 2. Install Dependencies
