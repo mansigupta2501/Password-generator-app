@@ -1,12 +1,55 @@
-# React + Vite
+# 🔐 Password Generator App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and feature-rich password generator built using **React** and **Tailwind CSS**.  
+Customize your password with selected criteria and copy it instantly with one click!
 
-Currently, two official plugins are available:
+![Screenshot](./src/assets/screenshot.png) 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ Generate secure passwords up to 50 characters
+- ✅ Toggle:
+  - Uppercase letters
+  - Lowercase letters
+  - Numbers
+  - Symbols
+- ✅ Live password preview
+- ✅ Copy to clipboard
+- ✅ Fully responsive layout
+
+---
+
+## 🛠️ Tech Stack
+
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- JavaScript (ES6+)
+- Vite
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/mansigupta2501/Tic-Tac-Toe-React.git
+cd Tic-Tac-Toe-React
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Start Development Server
+
+```bash
+npm run dev
+```
+
+**The app should now be running at:**
+**👉 http://localhost:5173**
